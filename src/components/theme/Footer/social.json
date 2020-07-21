@@ -17,5 +17,11 @@
     "name": "Twitter",
     "link": "https://twitter.com/",
     "icon": "/icons/twitter.svg"
+  },
+  {
+    "id": 3,
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/in/fadesc/",
+    "icon": "/icons/linkedin.svg"
   }
 ]

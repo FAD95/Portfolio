@@ -17,7 +17,7 @@ module.exports = {
   backgroundColor: '#900707',
   social: {
     facebook: 'appId',
-    twitter: '',
+    twitter: ''
   },
   address: {
     city: 'City',

@@ -12,8 +12,11 @@ export const Wrapper = styled.div`
 export const IntroWrapper = styled.div`
   padding: 4rem 0;
   display: flex;
+  flex-direction: column-reverse;
   align-items: center;
   justify-content: space-between;
+  height: calc(100vh - 4rem);
+  
 
   @media (max-width: 960px) {
     flex-direction: column;
@@ -52,6 +55,8 @@ export const Details = styled.div`
 
 export const Thumbnail = styled.div`
   flex: 1;
+  max-width: 800px;
+  width: 100%;
 
   @media (max-width: 960px) {
     width: 100%;
